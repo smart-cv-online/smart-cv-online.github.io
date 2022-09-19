@@ -19,4 +19,4 @@ Quite a lot actually! This current version of this product is very lean in what 
 - A simple form that only supports employment history and a few basic details
 - One default theme, it's nothing crazy, but it showcases what is possible
 - Image uploads for your avatar
-- Your own [my-career.info](https://my-career.info) sub domain e.g. [https://sam.street.my-career.info](this.my-career.info)
+- Your own [my-career.info](https://my-career.info) sub domain e.g. [example.mycareer.info](https://sam.street.my-career.info)
