@@ -1,3 +1,27 @@
+# 2022-09-19 Big changes
+
+Hey, it’s us again!
+
+It’s been very quiet on here for the last few weeks, we’re sorry about that! We had such tremendous feedback from a number of users that we decided it was best to really focus on giving this product the love that it deserved.
+
+But here we are! We have taken all the feedback on board, polished the whole product and learned a lot in the last month. So what have we being doing, you ask? Quite a lot is the answer.
+
+- We revamped the entire user interface, we are now mobile compliant, but work best on a tablet and up.
+- We have added custom theme colours (this one we are super proud of) so you can make your CV be an actual representation of you.
+- We now have a more unique domain generation solution, the old one just wasn’t quite unique enough!
+- We finished the default theme off and gave it a tidy up, but don’t worry lots more themes are on the way!
+- Notifications for registered users and every time your site deploys, nothing crazy, just a little something to let you know something is happening.
+- New education section.
+- You can now drag and drop reorder your employment and education.
+- A lot of under the hood magic, meaning we are more performant and robust.
+- Changes to the way skills were represented and handled in the builder form.
+
+Phew, that’s an awful lot of changes and improvements! But what’s next?
+
+We still have a lot of work and a lot of feedback that we are still working through. These next few weeks we are going to add a new theme, more customisation options and even some magic around exportable/printable versions of your CV, so keep your eyes peeled!
+
+It’s been an exciting few weeks and we are super excited about the upcoming changes and additions that we have planned and we can’t wait to show you all!
+
 
 # 2022-08-19 Hello, we are My Career!
 After a lot of back and forth, and many hours of development, we finally did it! A real eureka moment a week ago really ignited the fire under us and in the last week we have iterated over and over and we are finally pleased to show off what this is! My Career is a digital product that will empower users all over the world to have a digital presence in the form of their very own site. Build your CV using our simple form and then 30 seconds after clicking the button, you have your own site, as easy as that!
